@@ -9,21 +9,21 @@ What is this
 How to use
 ----------------------------------- 
 ### 目录结构
-  获取到工程后，根据框架提供的mvc工程目录来开发，结构示意如下
-  ├─framework
-  │  ├─function    封装的函数库
-  │  └─libs
-  │      ├─core    框架核心库
-  │      ├─db      封装数据库
-  │      └─view    集成smarty引擎
-  │          └─Smarty
-  │              ├─plugins
-  │              └─sysplugins
-  ├─libs
-  │  ├─Controller  控制器目录
-  │  ├─Model       模型目录
-  │  ├─ORG         第三方包
-  │  └─View        视图
+  获取到工程后，根据框架提供的mvc工程目录来开发，结构示意如下<br /> 
+  ├─framework<br /> 
+  │  ├─function    封装的函数库<br /> 
+  │  └─libs<br /> 
+  │      ├─core    框架核心库<br /> 
+  │      ├─db      封装数据库<br /> 
+  │      └─view    集成smarty引擎<br /> 
+  │          └─Smarty<br /> 
+  │              ├─plugins<br /> 
+  │              └─sysplugins<br /> 
+  ├─libs<br /> 
+  │  ├─Controller  控制器目录<br /> 
+  │  ├─Model       模型目录<br /> 
+  │  ├─ORG         第三方包<br /> 
+  │  └─View        视图<br /> 
 
 ### 命名规范
    控制器 adminController.class.php
@@ -35,4 +35,4 @@ How to use
 Contact me
 ----------------------------------- 
  nb@itwzw.cn<br /> 
-[Blog](http://www.itwzw.cn)<br /> 
+[Bey0ns's Blog](http://www.itwzw.cn)<br /> 
