@@ -1,15 +1,16 @@
-BeyPHP
+﻿BeyPHP
 ===================================
 
 What is this
 -----------------------------------  
-  BeyPHP是一个基于MVC架构的轻量级微型PHP框架，使用它封装的方法可以快速的开发。
+  BeyPHP是一个基于MVC架构的轻量级微型PHP框架，使用它可以快速的开发，让开发变得更简单。
 
 
 How to use
 ----------------------------------- 
 ### 目录结构
   获取到工程后，根据框架提供的mvc工程目录来开发，结构示意如下<br /> 
+
   ├─framework<br /> 
   │  ├─function    封装的函数库<br /> 
   │  └─libs<br /> 
@@ -26,9 +27,9 @@ How to use
   │  └─View        视图<br /> 
 
 ### 命名规范
-   控制器 adminController.class.php
-   模型   userModel.class.php
-   视图   userView.class.php
+   控制器 adminController.class.php<br /> 
+   模型   userModel.class.php<br /> 
+   视图   userView.class.php<br /> 
 
 
 
